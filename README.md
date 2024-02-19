@@ -1,4 +1,7 @@
-##<font color=steelblue> Background
+This is a repository for EDA (data cleaning + data visualization) on the Zomato Online Delivery Food Platform
+
+
+##  Background
 
 Zomato is a company that operates worldwide, with its headquarters in India. It **collects information about various restaurants** and presents it in a structured way on its platform. This allows users to browse different restaurants based on their preferences.
 
